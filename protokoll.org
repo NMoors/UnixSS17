@@ -1,0 +1,11 @@
+	
+	Protokoll zum Zugriff auf sensible Personaldaten
+
+Skriptname:
+Der Zugriff erfolgte von:am Rechner:
+Startzeit des Skriptes:
+Erste Abfrage zu sensiblen Daten um:
+Abfragen wurden beendet um:
+____________________________________________________________________________
+
+	Abfragen:

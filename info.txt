@@ -1,0 +1,8 @@
+	
+	
+	Sie koennen folgende Informationen ueber den Mitarbeiter abfragen
+	-----------------------------------------------------------------
+ 	Geburtsdatum		--> 	1
+	Gehalt			-->	2
+	Anzahl der Kinder	-->	3
+	-----------------------------------------------------------------
